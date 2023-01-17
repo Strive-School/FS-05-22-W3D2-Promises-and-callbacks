@@ -12,10 +12,9 @@ const makeUpperCase = (argument) => {
 }
 
 
-makeUpperCase('js is cool')
-.then(function(upperCasedString){
-    console.log(`Upper cased string is here : ${upperCasedString}`)
-}) 
-.catch(function(error){
-    console.log(`No! it doesnt work  : ${error.message}`)
-})
+const result = makeUpperCase('js is cool')
+
+
+ 
+
+ 
