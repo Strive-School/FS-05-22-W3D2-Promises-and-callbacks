@@ -160,3 +160,4 @@ const lettersOfLastName = [...lastNameOfUbeyt]
 
 const fullNameLetters = lettersOfUbeyt.concat(lettersOfLastName)
 
+
